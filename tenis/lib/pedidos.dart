@@ -14,7 +14,7 @@ class Pedidos extends StatelessWidget {
             Padding(
               padding: EdgeInsets.all(5),
               child: Text(
-                'Historial de Ventas',
+                'Historial de Pedidos',
                 style: GoogleFonts.aBeeZee(fontSize: 20, color: Colors.black),
               ),
             ),
